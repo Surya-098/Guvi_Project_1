@@ -2,7 +2,7 @@ import time
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException as NSEE
 from selenium.webdriver.common.by import By
-from Testdata.Login_data import data
+from Testdata.test_data import data
 from Testdata.pageObjects import pageObjects
 
 
