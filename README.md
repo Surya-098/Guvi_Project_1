@@ -1,4 +1,5 @@
 # Guvi_Project_1
+Project Details:
 Project - 1: Develop automation for User Management Tool by adding a user
 Steps:
 1. Navigate to “https://opensource-demo.orangehrmlive.com/”
@@ -13,3 +14,7 @@ Steps:
 7. Verify the user is created
 8. Log out from application
 9. Re Login to application using the above created user
+
+Find the Test data and Pageobjects file in Testdata folder
+Find the Methods collection in the Test_code folder
+Find the main Pytest file-'test_main.py' in the Main folder
